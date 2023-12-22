@@ -1,5 +1,5 @@
 # README.MD
-Bienvenido al repositorio de RuHor donde encontrarás el código de alguos de los programas que se explican en los videos que se van publicando en Youtube con relación al lenguaje de progamación autoit.
+Bienvenido al repositorio de RuHor donde encontrarás el código de algunos de los programas que se explican en los videos que se van publicando en Youtube con relación al lenguaje de progamación autoit, python u otro lenguaje de programación.
 
 ![](/preview.png)
 

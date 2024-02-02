@@ -1,7 +1,7 @@
 # README.MD
-Bienvenido al repositorio de RuHor donde encontrarás el código fuente "scripts" de los videos que se van publicando en Youtube con relación a algunos lenguajes de progamación autoit, python u otro lenguaje de programación.
+Bienvenido al repositorio de RuHor donde encontrarás el código fuente "scripts" que se muestra en los videos que se van publicando en Youtube con relación a algunos lenguajes de progamación autoit, python u otro lenguaje de programación.
 
-Dentro de la carpeta src se encuentran en carpetas separadas por el nombre del lenguaje de programación los distintos scripts.
+Dentro de src se encuentran en carpetas separadas por el nombre del lenguaje de programación los distintos scripts.
 
 ![](/preview.png)
 
